@@ -15,3 +15,4 @@ if($email === $userarr[0] && $password === $userarr[1]) {
 }else{
     die("Something is wrong with your password or email");
 };
+
